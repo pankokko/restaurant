@@ -1,0 +1,42 @@
+.footer{
+  height:300px;
+max-width:80%;
+background-color:pink;
+margin:0 auto;
+  position: relative;
+}
+
+.foot{
+  width:100%;
+}
+
+.footlink{
+  display:flex;
+  justify-content: center;
+}
+
+.footer-pic{
+  text-align:center;
+}
+
+.footer-icon{
+  position:absolute;
+  right:33%;
+  bottom:50px;
+}
+
+.links{
+  float:left;
+margin:0 auto;
+padding-left:30px;
+}
+
+.linkList{
+font-size:20px;
+}
+
+a{
+  color:white;
+ 
+
+}

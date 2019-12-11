@@ -1,0 +1,56 @@
+.info{
+  background-color:green; 
+  width:100%;
+  padding-left:3%;
+  padding-right:3%;
+  height:500px;
+
+}
+.info-notice{
+  background-color:blue; 
+  text-align:center;
+  width:80%;
+  padding:15px;
+  padding-top:40px;
+  margin: 0 auto;
+  display:flex;
+  justify-content: space-between;
+
+}
+
+.today-menus{
+margin:0 auto;
+text-align:center;
+padding-left:30px;
+width:33%;
+}
+
+.cost{
+margin-top:15px;
+font-size:30px;
+}
+
+.today-menu{
+  transition: all 1s;
+}
+
+.today-menu:hover{
+background-color:rgba(84,190,238,0.5);
+
+}
+
+.info p{
+text-align:center;
+}
+
+.picup-menu{
+font-size:30px;
+}
+
+.menus-picture{
+  display:inline;
+}
+
+.discription{
+  padding-top:15px;
+}
